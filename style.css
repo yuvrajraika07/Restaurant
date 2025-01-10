@@ -1,0 +1,532 @@
+#sona{
+    
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+}
+.yuvi{
+   
+    perspective: 10px;
+    margin: 1px;
+    height: 100px;
+    width: 200px;
+   
+}
+a img{
+    height: 50%;
+    font-size: 20px;
+    width: 200px;
+    margin-top: 20px;
+    
+    margin-left: 30px;
+}
+.sonayuvi{
+   
+    float: left;
+    padding: 14px 17px;
+    padding-top: 26px;
+    margin-left: 25%;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
+li{
+    float: left;
+    text-align: center;
+    justify-content: center;
+}
+li a{
+    margin-left: 20px;
+    text-decoration: none;
+    padding: 14px 16px ;
+    font-family: sans-serif;
+    font-size: 23px;
+   
+    color: white;
+
+}
+li a:hover {
+    background-color: #f4c2c2;
+  }
+button{
+    margin-left: 7px;
+    color: white;
+    background-color: brown;
+    padding: 14px 17px; 
+    margin-top: 19px;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+.content{
+    background-image: url("img/loga_1.jpg");
+    height: 740px;
+    margin: 3px 5px ;
+}
+.About{
+    margin-top: 20px;
+   
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    padding: 17px 30px;
+    margin-top: 20px;
+    justify-content: space-around;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.div_A{
+    height: 100%;
+    width: 18%;
+  
+    font-family: sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    
+}
+.fa-solid {
+    font-size: 45px;
+    margin-top: 20px;
+    margin-left: 4px;
+}
+h1{
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    margin-left: 4px;
+}
+
+p{
+   margin-left: 4px; 
+}
+.div_A:hover{
+    background-color: #ff9966;
+}
+.Service{
+    margin-top: 7px;
+    width: 90%;
+    height: 780px;
+ 
+    display: flex;
+}
+.sed{
+   
+    height: 600px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+   
+}
+.sed_1{
+   
+    height: 500px;
+    width: 450px;
+    margin-top: 120px;
+    margin-left: 120px;
+
+}
+.port{
+    position: relative;
+    top: -100px; 
+   
+    height:190px;
+    width: 220px;
+    margin: 4px;
+    margin-top: 4px;
+   
+}
+.port_1{
+  
+    height:120px;
+    width: 150px;
+    position: relative;
+    left: 110px;
+    padding-top: 30px;
+    margin-top: 15px;
+}
+.port_2{
+    
+    height:120px;
+    width: 170px;
+    margin: 4px;
+    position: relative;
+    top: -23px;
+    padding-top: 10px;
+    margin-left: 80px;
+    
+    
+}
+.port_3{
+  
+    height:190px;
+    width: 220px;
+    margin: 4px;
+    position: relative;
+    left: 80px;
+    top: -10px;
+    
+}
+img{
+    height: 200%;
+    width: 150%;
+}
+h4{
+    font-family: Gabriola ;
+    font-size: 23px;color: #ff9966;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+.path{
+    padding-top: 10px;
+}
+.Restoram{
+   
+    height: 600px;
+    display: flex;
+
+}
+.ram{
+    height: 600px;
+    width: 800px;
+    
+}
+.ram_1{
+    background-color: 	#16161D;
+    margin-left: 20px;
+    margin-top: 45px;
+    height: 500px;
+    width: 550px;
+    border:  2px solid royalblue;
+   
+}
+video{
+    height: 90%;
+    width: 100%;
+   
+}
+.text{
+   
+    height: 400px;
+    
+
+}
+.your{
+  
+    height: 10%;
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 8px;
+    font-family: sans-serif;
+    font-size: 13px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;}
+.your1{
+    margin-left: 20px;
+   
+    height: 10%;
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 8px;
+    font-family: sans-serif;
+    font-size: 13px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;}
+.Email{
+    height: 80px;
+    width: 83%;
+    margin-left: 10px;
+    margin-top: 2px;
+    text-align: start;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.name{
+    position: relative;
+    top: -90px;
+    margin-left: 15px;
+}
+.BOOK{
+   width: 85%;
+   position: relative;
+   top: -60px;
+   margin-left: 10px;
+   background-color: #ff9966;
+}
+.READ{
+    margin: 0;
+    padding: 0;
+    font-family: Gabriola ;
+    font-size: 23px;color: #ff9966;
+    margin-left: 10px;
+}
+.rel{
+    color: white;
+    margin-left: 10px;
+}
+.Our{
+    display: flex;
+    
+    height: 380px;
+    width: 99%;
+    
+   
+}
+.Chefs{
+    margin: 10px;
+    border:  1px solid white;
+    height: 300px;
+    width: 17%;
+    text-align: center;
+    margin: auto; 
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
+}
+.raika-yuvi{
+   
+    height: 80%;
+    width: 80%;
+    border-radius: 50%;
+    margin-top: 9px;
+}
+.Chefs h2{
+    
+    position: relative;
+    top: -23px;
+}
+.fa-brands{
+    
+    position: relative;
+    top: -44px;
+}
+.Chefs:hover {
+    background-color: grey;
+ }
+.team{
+    margin-left: 40%;
+    font-family: cursive;
+   color: coral ;
+}
+.members{
+    margin-left: 34%;
+    font-family: sans-serif;
+    font-size: 45px;
+}
+.Clients{
+   
+    height: 300px;
+    display: flex;
+    
+}
+.clien{
+    margin: auto;
+    width: 20%;
+    height: 80%;
+    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.clien img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.clien p{
+    font-family: sans-serif;
+    
+}
+.clien h1{
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-size: 21px;
+    position: relative;
+    top: -50px;
+}
+.p{
+    margin-left: 65px;
+    font-family: sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: -70px;
+}
+
+.clien:hover{
+    background-color:#ff9966;
+}
+.footer{
+    border: 2px solid teal;
+    background-color: #16161D;
+    height: 500px;
+    display: flex;
+}
+.foot{
+    margin-top: 10px;
+    height: 300px;
+   
+    width: 30%;
+    margin: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    list-style-type: none;
+    color: white;
+}
+.foot li{
+   
+    text-align: start;
+    width: 40%;
+    margin-left: 20px;
+     
+}
+.foot p{
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    color: #ff9966;
+}
+samp{
+    position: relative;
+    top: -10px;
+}
+.oof{
+    margin-top: 10px;
+    height: 300px;
+    
+    width: 30%;
+    margin: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    list-style-type: none;
+    color: white;
+}
+.oof 
+    li{
+       
+        text-align: start;
+        width: 40%;
+        margin-left: 20px;
+         
+    }
+    .fa-solid{
+        font-size: 19px;
+       
+    }
+   
+    .dot{
+        position: relative;
+        margin-left: 29px;
+        top: -40px;
+       
+    }
+    .css{
+        
+        margin: 0;
+        height: 50px;
+    }
+    .ri{
+        margin-right: 20px;
+        margin-top: 50px;
+        font-size: 30px;
+    }
+    .ui{
+        position: relative;
+        left:  40px;
+        top: -37px;
+        font-size: 30px;
+    }
+    .yu{
+        position: relative;
+        left:  -37px;
+        top: -35px;
+        font-size: 30px;
+    }
+    .yi{
+        position: relative;
+        left:  140px;
+        top: -70px;
+        font-size: 30px;
+        border-radius: 50%;
+    }
+    .paga{
+        color: #ff9966;
+    }
+    .ot{
+        margin-top: 10px;
+        height: 300px;
+      
+        width: 30%;
+        margin: 60px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        list-style-type: none;
+        color: white;
+
+    }
+    .ot h1{
+       font-size: 20px;
+       position: relative;
+       top: -35px;
+    }
+    .PAGESI{
+       position: relative;
+       top: -30px;
+    }
+    .PAGESIs{
+        position: relative;
+       top: -47px;
+    }
+    .Opening{
+        color:#ff9966;
+    }
+    .t{
+        margin-top: 10px;
+        height: 300px;
+       
+        width: 30%;
+        margin: 60px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        list-style-type: none;
+        color: white;
+
+    }
+    
+    .t li{
+        display: flex;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .te{
+       
+        height: 50px;
+        width: 200px;
+        margin-left: 10px;
+        
+    }
+    .dolor{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif, 'Times New Roman', Times, serif;
+        font-size: 26px;
+    }
+    .newsletter{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: #ff9966;
+    }
+    .submit{
+       
+        height: 40px;
+        width: 90px;
+        margin: auto;
+        background-color: #ff9966;
+        color: white;
+    }
+    .page-footer{
+        text-align: center;
+        padding: 4px;
+        background-color: #abbaba;
+        color: #000;
+        
+    }
